@@ -9,6 +9,3 @@ Fitur Fitur
 5. Unit Intelkan
 5. SKCK
 Dan Lain Lain
-
-Versi Demo
-
